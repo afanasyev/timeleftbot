@@ -1,0 +1,22 @@
+{
+  "name": "timeleftbot",
+  "version": "1.0.0",
+  "description": "Countdown timer bot for Telegram",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "telegram",
+    "bot",
+    "countdown",
+    "timer"
+  ],
+  "author": "afanasyev",
+  "license": "ISC",
+  "dependencies": {
+    "parse": "1.5.x",
+    "moment": "2.10.x",
+    "node-telegram-bot-api": "0.11.x"
+  }
+}
